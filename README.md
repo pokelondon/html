@@ -106,7 +106,7 @@
 - Semantic markup improves document readability for assistive technologies and contributes to your SEO. It also helps to ensure your content can still be read if your CSS should fail to load, or if CSS is not supported by the UA being used to view your pages.
 - For a more in-depth look see this [Wikipedia article](https://en.wikipedia.org/wiki/Semantic_HTML).
 
-** Bad **
+**Bad**
 
 ```html
 <div class='Nav-outer'>
@@ -118,7 +118,7 @@
 </div>
 ```
 
-** Good **
+**Good**
 
 ```html
 <nav class='Nav-outer'>
@@ -136,7 +136,7 @@
 </nav>
 ```
 
-** Bad **
+**Bad**
 
 ```html
 <div class='Sidebar'>
@@ -149,7 +149,7 @@
 </div>
 ```
 
-** Good **
+**Good**
 
 ```html
 <aside class='Sidebar'>
